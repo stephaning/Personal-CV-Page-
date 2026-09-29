@@ -61,7 +61,7 @@ export const cv: CV = {
   skills: [
     { label: 'Communication', items: ['Chat Support', 'Customer Service', 'Written English', 'Fast Typing'] },
     { label: 'Admin', items: ['Data Entry', 'Email Management', 'Scheduling', 'Inventory'] },
-    { label: 'Tools', items: ['Google Workspace', 'MS Office', 'Canva'] },
+    { label: 'Tools', items: ['Google Workspace', 'MS Office', 'Canva', 'Meta Business Suite'] },
     { label: 'Strengths', items: ['Time Management', 'Multitasking', 'Attention to Detail'] },
   ],
 
